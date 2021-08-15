@@ -40,7 +40,7 @@
 }
 
 .notion-gallery-grid {
-  grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
+  /* grid-template-columns: repeat(auto-fill, minmax(360px, 1fr)); */
   grid-gap: 6vmin;
   gap: 6vmin;
 }
@@ -50,7 +50,7 @@
 }
 
 .notion-gallery-grid .notion-page-title-text {
-  font-size: 2em;
+  font-size: 1.5em;
   white-space: unset;
 }
 
@@ -62,7 +62,9 @@
 .notion-gallery-grid .notion-property-text {
   font-size: 14px;
 }
-
+.notion-aside-table-of-contents-header {
+  display: none;
+}
 .notion-collection-card {
   border-radius: 16px;
   box-shadow: none;
