@@ -17,9 +17,7 @@ module.exports = {
   socialImageSubtitle: 'Hi,i am Olivia~ 👋',
 
   // social usernames (optional)
-  // twitter: 'transitive_bs',
   // github: 'transitive-bullshit',
-  // linkedin: 'fisch2',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
