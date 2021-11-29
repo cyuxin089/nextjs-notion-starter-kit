@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: '',
-  domain: '',
+  domain: 'Oliviacai.art',
   author: 'Olivia',
 
   // open graph metadata (optional)
