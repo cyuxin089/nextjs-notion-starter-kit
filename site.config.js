@@ -1,6 +1,6 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '3615e574b8cc4600bf80859c9fa46694',
+  rootNotionPageId: '48f3962b67e44e36a525dfc98f4f063f',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: '',
-  domain: 'Oliviacai.art',
+  domain: '',
   author: 'Olivia',
 
   // open graph metadata (optional)
