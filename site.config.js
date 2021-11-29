@@ -1,6 +1,6 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '1e2334959cb0485683d54bfcf9b9f430',
+  rootNotionPageId: '3615e574b8cc4600bf80859c9fa46694',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
